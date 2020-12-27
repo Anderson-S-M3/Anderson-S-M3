@@ -1,11 +1,12 @@
-<img align="center" alt="logo" src="https://user-images.githubusercontent.com/65872811/103165766-5ba70280-47fa-11eb-9d51-3c7d92ca58a2.jpg" />
+<img align="center" alt="logo" src="https://user-images.githubusercontent.com/65872811/103179505-985f1200-486b-11eb-9882-fb6e0e2f15b8.jpg" />
 
 <p> Olá, sou Anderson, Desenvolvedor Back-end, sou de Minas Gerais🌍. Estudante de Analise e desenvolvimento de sistemas🚀 pela Unopar-EAD. Sempre ansioso para me conectar com outras pessoas:blush:.</p>
 
 <br>
-<br>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+
+<br>
 
 - 👨🏽‍💻 Sou desenvolvedor <i>back-end Jr</i> e arrisco as vezes como front-end :smile:.
 - 🌱 Estou aprendendo mais sobre Django, e aprofundando em Python.
