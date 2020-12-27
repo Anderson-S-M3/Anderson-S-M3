@@ -15,7 +15,7 @@
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar.
 <p>:point_down: Entre em contato comigo :point_down:</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/Anderson_S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/anderson-s-antunes-b879251b9/) 
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/anderson-s-antunes-b879251b9/) 
 [![Email](https://img.shields.io/badge/Hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:anderson_s_antunes@hotmail.com)
 
 <br>
