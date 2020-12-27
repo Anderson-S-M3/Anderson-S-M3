@@ -34,7 +34,7 @@
 
 ![Estatísticas do github de Anderson-S-M3](https://github-readme-stats.vercel.app/api?username=Anderson-S-M3&show_icons=true&hide_border=true)
 
-:green_heart: De [Anderson-S-M3](https://github.com/anikethsukhtankar):green_heart:
+:green_heart: De [Anderson-S-M3](https://github.com/Anderson-S-M3):green_heart:
 
 <i>Ninguem é tão sábio que não tenha algo pra aprender e nem tão tolo que não tenha algo pra ensinar</i>. ([Blaise Pascal](https://pt.wikipedia.org/wiki/Blaise_Pascal))
 
