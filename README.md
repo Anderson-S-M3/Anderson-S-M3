@@ -15,7 +15,9 @@
 <p>:point_down: Entre em contato comigo :point_down:</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/Anderson_S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/anderson-s-antunes-b879251b9/) 
-[![Email](https://img.shields.io/badge/Anderson__S__Antunes@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:anderson_s_antunes@hotmail.com)
+[![Email](https://img.shields.io/badge/Hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:anderson_s_antunes@hotmail.com)
+
+<br>
 
 <h4>🛠Techs🛠</h4>  
 
@@ -26,7 +28,11 @@
 <code> <img height = "25" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> </code> 
 <code> <img height = "25" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> 
 
--![Estatísticas do github de Anderson-S-M3](https://github-readme-stats.vercel.app/api?username=Anderson-S-M3&show_icons=true&hide_border=true)
+<br>
+
+<h4>:chart_with_upwards_trend: Estatísticas :chart_with_upwards_trend:</h4>  
+
+![Estatísticas do github de Anderson-S-M3](https://github-readme-stats.vercel.app/api?username=Anderson-S-M3&show_icons=true&hide_border=true)
 
 :green_heart: De [Anderson-S-M3](https://github.com/anikethsukhtankar):green_heart:
 
