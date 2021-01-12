@@ -1,6 +1,6 @@
 <img align="center" alt="logo" src="https://user-images.githubusercontent.com/65872811/103179505-985f1200-486b-11eb-9882-fb6e0e2f15b8.jpg" />
 
-<p> Olá, sou Anderson, Desenvolvedor Full-Stack, Natural de Minas Gerais🌍. Estudante de Analise e desenvolvimento de sistemas🚀 pela Unopar-EAD. Sempre ansioso para me conectar com outras pessoas:blush:.</p>
+<p> Olá, sou Anderson, Desenvolvedor Full-Stack, natural de Minas Gerais🌍. Estudante de Analise e desenvolvimento de sistemas🚀 pela Unopar-EAD. Sempre ansioso para me conectar com outras pessoas:blush:.</p>
 
 <br>
 
