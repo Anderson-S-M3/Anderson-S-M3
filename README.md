@@ -1,6 +1,6 @@
 <img align="center" alt="logo" src="https://user-images.githubusercontent.com/65872811/103179505-985f1200-486b-11eb-9882-fb6e0e2f15b8.jpg" />
 
-<p> Olá, sou Anderson, Desenvolvedor Back-end, sou de Minas Gerais🌍. Estudante de Analise e desenvolvimento de sistemas🚀 pela Unopar-EAD. Sempre ansioso para me conectar com outras pessoas:blush:.</p>
+<p> Olá, sou Anderson, Desenvolvedor Full-Stack, Natural de Minas Gerais🌍. Estudante de Analise e desenvolvimento de sistemas🚀 pela Unopar-EAD. Sempre ansioso para me conectar com outras pessoas:blush:.</p>
 
 <br>
 
@@ -8,10 +8,10 @@
 
 <br>
 
-- 👨🏽‍💻 Sou desenvolvedor <i>back-end Jr</i> e arrisco as vezes como front-end :smile:.
-- 🌱 Estou aprendendo mais sobre Django, e aprofundando em Python.
+- 👨🏽‍💻 Sou desenvolvedor <i>Full-Stack Jr</i>.
+- 🌱 Estou aprendendo mais sobre React / Vue.
 - 🤔 Meus interesses são com Algoritmos / Estruturas de Dados, Arquitetura de Software, Código Limpo, etc.
-- 💼 Estou cursando ADS (4° semestre).
+- 💼 Estou cursando ADS (3° semestre).
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar.
 <p>:point_down: Entre em contato comigo :point_down:</p>
 
