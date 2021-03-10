@@ -1,6 +1,6 @@
 <img align="center" alt="logo" src="https://user-images.githubusercontent.com/65872811/103179505-985f1200-486b-11eb-9882-fb6e0e2f15b8.jpg" />
 
-<p> Olá, sou Anderson, Desenvolvedor Full-Stack, natural de Minas Gerais🌍. Estudante de Analise e desenvolvimento de sistemas🚀 pela Unopar-EAD. Sempre ansioso para me conectar com outras pessoas:blush:.</p>
+<p> Olá, sou Anderson, Desenvolvedor Front-End com aventuras em Back-End, natural de Minas Gerais🌍. Estudante de Analise e desenvolvimento de sistemas🚀 pela Unopar-EAD. Sempre ansioso para me conectar com outras pessoas:blush:.</p>
 
 <br>
 
@@ -8,9 +8,9 @@
 
 <br>
 
-- 👨🏽‍💻 Sou desenvolvedor <i>Full-Stack Jr</i>.
-- 🌱 Estou aprendendo sobre React / Vue.
-- 🤔 Meus interesses são com Algoritmos / Estruturas de Dados, Arquitetura de Software, Código Limpo, etc.
+- 👨🏽‍💻 Sou desenvolvedor <i>Front-End Jr</i> com aventura em <i>Back-End</i>.
+- 🌱 Estou aprendendo sobre React / Next.
+- 🤔 Meus interesses são com Arquitetura de Software, Código Limpo, etc.
 - 💼 Estou cursando ADS (3° semestre).
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar.
 <p>:point_down: Entre em contato comigo :point_down:</p>
@@ -24,6 +24,7 @@
 
 <code> <img height = "25" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code> <img height = "25" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code> <img height = "25" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code> <img height = "25" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code> <img height = "25" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code> <img height = "25" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
