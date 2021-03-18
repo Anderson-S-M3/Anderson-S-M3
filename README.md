@@ -2,7 +2,6 @@
 <p> Natural de Minas Gerais🌍 e um desenvolvedor Front-End que gosta de se aventurar no Back-End</p>
 <p> Atualmente cursando Analise e desenvolvimento de sistemas👨🏽‍💻 pela <a href="https://www.unopar.com.br/">Unopar-EAD</a>:school:</p>
 
-
 <br>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
@@ -14,6 +13,9 @@
 - 🤔 Meus interesses são com Arquitetura de Software, Código Limpo, ...
 - 💼 Cursando ADS (3° semestre).
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar.
+
+<br>
+
 <p>:point_down: Entre em contato comigo :point_down:</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/Anderson_S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/anderson-s-antunes-b879251b9/) 
@@ -40,8 +42,8 @@
 
 ![Estatísticas do github de Anderson-S-M3](https://github-readme-stats.vercel.app/api?username=Anderson-S-M3&show_icons=true&hide_border=true)
 
-🧡 De [Anderson-S-M3](https://github.com/Anderson-S-M3) 🧡
-
 <i>"Não pule degraus pra dar início. Tudo tem o seu começo então parta do princípio"</i>
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/NFA61GS9qKZ68/giphy.gif" />
+
+🧡 De [Anderson-S-M3](https://github.com/Anderson-S-M3) 🧡
