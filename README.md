@@ -48,4 +48,5 @@
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/NFA61GS9qKZ68/giphy.gif" />
 
+---
 🧡 De [Anderson-S-M3](https://github.com/Anderson-S-M3) 🧡
