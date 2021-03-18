@@ -42,6 +42,8 @@
 
 ![Estatísticas do github de Anderson-S-M3](https://github-readme-stats.vercel.app/api?username=Anderson-S-M3&show_icons=true&hide_border=true)
 
+<br>
+
 <i>"Não pule degraus pra dar início. Tudo tem o seu começo então parta do princípio"</i>
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/NFA61GS9qKZ68/giphy.gif" />
