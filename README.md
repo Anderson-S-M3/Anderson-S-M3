@@ -1,5 +1,9 @@
-<h2>Olá, sou Anderson e Seja Bem-vindo(a) ao meu perfil no GitHub.</h2>
-<p> Natural de Minas Gerais🌍 e um desenvolvedor Front-End que gosta de se aventurar no Back-End</p>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/65872811/112672121-dc00f200-8e41-11eb-945a-4408c655df22.png" />
+
+<br>
+
+<h2>Olá, Seja Bem-vindo(a) ao meu perfil GitHub.</h2>
+<p> Sou natural de Minas Gerais🌍 e um desenvolvedor Front-End que gosta de se aventurar no Back-End</p>
 <p> Atualmente cursando Analise e desenvolvimento de sistemas👨🏽‍💻 pela <a href="https://www.unopar.com.br/">Unopar-EAD</a>:school:</p>
 
 <br>
