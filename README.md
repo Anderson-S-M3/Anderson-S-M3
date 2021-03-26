@@ -2,6 +2,10 @@
 
 <br>
 
+<p> </p>
+
+<br>
+
 <h2>Olá, Seja Bem-vindo(a) ao meu perfil GitHub.</h2>
 <p> Sou natural de Minas Gerais🌍 e um desenvolvedor Front-End que gosta de se aventurar no Back-End</p>
 <p> Atualmente cursando Analise e desenvolvimento de sistemas👨🏽‍💻 pela <a href="https://www.unopar.com.br/">Unopar-EAD</a>:school:</p>
