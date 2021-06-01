@@ -17,7 +17,7 @@
 <br>
 
 - 👨🏽‍💻 Desenvolvedor <i>Front-End</i>.
-- 🌱 Aprendendo Next.js.
+- 🌱 Aprendendo React Native.
 - 🤔 Meus interesses são com Arquitetura de Software, Código Limpo, ...
 - 💼 Cursando ADS (3° semestre).
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar.
